@@ -1,4 +1,4 @@
-# Matrix-Multiplication-Calculator-Web-App_Coding2
+# Matrix-Multiplication-Calculator-Web-App
 
 
 **Language** --> HTML , CSS , JAVASCRIPT
